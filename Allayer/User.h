@@ -15,5 +15,4 @@
 
 - (id)initWithServerResponse:(NSDictionary *)responseObject;
 
-
 @end
