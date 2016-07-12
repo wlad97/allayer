@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E90767691742FC213AE8B9F91FBCD7F6C796910C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E90767691742FC213AE8B9F91FBCD7F6C796910C" : 0,
+    "CD1468FFE28E8F9138BD1736CDA0D42F64A7E69E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0DE74370-C2F8-41D6-8456-5365C1411C48",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E90767691742FC213AE8B9F91FBCD7F6C796910C" : "allayer\/",
+    "CD1468FFE28E8F9138BD1736CDA0D42F64A7E69E" : "allayer\/Allayer\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Allayer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Allayer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wlad97\/Allayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CD1468FFE28E8F9138BD1736CDA0D42F64A7E69E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:wlad97\/allayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E90767691742FC213AE8B9F91FBCD7F6C796910C"
+    }
+  ]
+}
